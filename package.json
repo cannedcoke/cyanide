@@ -1,0 +1,9 @@
+{
+  "name": "cyanide",
+  "main": "src/Cyanide.js",
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/plugin-transform-react-jsx": "^7.28.6"
+  }
+}
